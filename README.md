@@ -5,4 +5,5 @@
 # iTask also includes robust customization options, allowing users to personalize their experience to suit their unique preferences. 
 # In addition to its impressive feature set, iTask is built with performance and scalability in mind. Leveraging the power of React.js, the application delivers lightning-fast performance, ensuring a smooth and responsive user experience, even as the task list grows.
 
-![2024-03-11 (1)](https://github.com/shivi028/Todo-Project/assets/148358444/268699a2-6f56-4e51-84c5-c894e48ed56c)
+![2024-03-11 (1)](https://github.com/shivi028/Todo-Project/assets/148358444/0edc56c1-628e-4203-ad0d-c07412e4c6a7)
+
